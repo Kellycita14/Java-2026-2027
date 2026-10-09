@@ -23,7 +23,7 @@ public class Ejercicio11_a_m {
                                 tablero[i][2]
                 );
                 if (i < 2) {
-                    System.out.println("--+--+--");
+                    System.out.println("---------");
                 }
             }
 
